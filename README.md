@@ -10,7 +10,7 @@ Every aftermarket rim in `CARS\WHEELS\GEOMETRY.BIN` (all 656 wheel models) uses 
 
 This fix adds the two textures to the `Global\GlobalTextures.tpk` pack inside `GLOBAL\GLOBALB.LZC`, so a failed swap shows a generic tire instead of nothing. It's the same thing NFSMW Unlimiter's full install does.
 
-Full write-up: *(link to the GitHub issue)*
+Full write-up: https://github.com/ThirteenAG/WidescreenFixesPack/issues/2357
 
 ## Requirements
 
